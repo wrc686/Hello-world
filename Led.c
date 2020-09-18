@@ -5,7 +5,7 @@
 //float MapBld_Ang;
 float MapBld_Spd;
 
-#define LEDPin 21
+#define LEDPin 22
 
 int main()
 {
